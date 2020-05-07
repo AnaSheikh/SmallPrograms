@@ -3,7 +3,7 @@ def subtract(number1,number2):
 
 
 def divide(number1,number2):
-    return number1/number2
+    return number1//number2
 
 def multpily(number1,number2):
     return number1*number2
